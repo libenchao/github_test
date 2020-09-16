@@ -5,3 +5,4 @@ This is feature 2, line 1
 This is feature 2, line 2
 
 Add another line.
+one line
